@@ -2,7 +2,7 @@ import java.util.*;
 
 public class I_Z_Sort {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in); 
         int n = sc.nextInt();
 
         long[] a = new long[n];  
